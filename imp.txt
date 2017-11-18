@@ -1,3 +1,5 @@
+GIT Learning Checkin changes first time
+===================================
 Sapient: 
 1.People Portal: https://peopleportal2.sapient.com/my/PeopleProfile.aspx?accountname=i:0e.t|adfs|mchen2@sapient.com
 2.Oracle Time sheet: https://timetracking.sapient.com/TimeCardHistory.aspx
