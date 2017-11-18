@@ -1,0 +1,203 @@
+Sapient: 
+1.People Portal: https://peopleportal2.sapient.com/my/PeopleProfile.aspx?accountname=i:0e.t|adfs|mchen2@sapient.com
+2.Oracle Time sheet: https://timetracking.sapient.com/TimeCardHistory.aspx
+
+
+chennadeerappa@sapient.com
+
+am
+printer Server: \\bangprn1\Kedarnath & Aravali
+\\mchen2\Harshi!@#4\
+PID: 162484
+Zoom Meeting detials: https://kuoni.zoom.us/j/5503810254
+====================================================
+Magna:
+http://ts.magna.in/Login.aspx
+772884/Harshi!@#4
+
+======================================================
+Zoom meeting id of Vinay sir:
+https://kuoni.zoom.us/j/3841998220?pwd=&status=success
+Kuoni
+emeanb\104573
+Password: @Work789 
+
+Recorded video's can be found: 
+C:\Users\mchen2\Documents\Zoom
+======================================================
+HelpDesk URL:http://help.sapient.com/
+HelpDesk URL: https://helpdesk.sapient.com/
+
+1 - https://hotels.test.gta-travel.com/gcres/auth/signIn
+2 - https://hotels.test.gta-travel.com/gs/auth/signIn
+3 - https://interface.test.gta-travel.com/rbsjp/Home.jsp
+3 - JIRA: http://jira.emea.kuoni.int/secure/RapidBoard.jspa?rapidView=783&projectKey=JAV
+4 - Confluence Page: https://interface.test.gta-travel.com/rbsjp/Home.jsp
+
+GTA connect (GCRES) test sites
+====================================
+web id : GTA
+Username: gsuser1
+password: London1 
+==================================
+Webid :GTA
+Username: 921329
+Password: Kuoni123
+===================================
+
+1 - https://hotels.test.gta-travel.com/gcres/auth/signIn-->To Check Reservation, PO, Invoice and Cancel PO. 
+2 - https://hotels.test.gta-travel.com/gs/auth/signIn
+3 - https://interface.test.gta-travel.com/rbsjp/Home.jsp
+Agent ID use - 2696
+4. gts finance link: https://hotels-nft.gta-travel.com/gtsfinance
+call centre / customer service - http://interface.test.gta-travel.com/rbsjp/enter.jsp?siteid=rbsjpcc
+agent url - http://interface.test.gta-travel.com/rbsjp
+====================================================
+Sales Force: 
+https://k.kuoni.com/sites/WS_00563/Salesforce%20Best%20Practice%20User%20Guide/SitePages/Home.aspx
+
+Stage 1 – Acquire
+Stage 2 – Manage 
+
+We would need to get a grip on account creation for new Client and any other Account creation ie:- new property and so on.
+
+I can share my credential for you to log on for now as I have also requested for a new login credential for you
+
+Url for salesforce : https://test.salesforce.com/?ec=302&startURL=%2Fhome%2Fhome.jsp
+Login credential:-
+Username : shai.sreetharan@gta-travel.com.uat
+Password : Kuoni123
+
+userName: murali.chennadeerappa@sapient.comsplitpc
+Password: Harshi!@#4
+
+wifi password: clip73rods
+===========================================================
+JIRA and Confluence Login:
+Username : Murali.C@gta-travel.com
+Pwd: Kuoni123
+
+=======================================================
+Salesforce: 
+ username: mchennadeerappa@sapient.com.uat
+Password: Harshi!@#4
+
+Username hari.gavathakatla@gta-travel.com.orgsplitpc
+Password :testing123
+=================================================
+GTA Account Created: 
+Firstname :Murali
+Lastname :C
+User ID : 920438	
+password :Kuoni123
+Business Unit : GTA
+Department :IT
+Job Title : Tester
+Email Address : Murali.C@gta-travel.com
+AS 400: 
+GTADEMO, LONDEV, created
+User Name:LCP73T
+Password:travel1
+================
+LCP03S / london1 ==>working.Raghu's 
+Shai: 
+Username: LCP67S
+Password: 	
+
+Gail: 
+LCP28S/
+
+=========================================================
+pluse vpn: 
+mchen2/Harshi!@#4
+==========================================================
+wireless network
+clip73rods 
+Mobile net
+============================================
+AX: http://sirius.kuoni.int/Citrix/xd7Web/
+============================================
+GTA Call Center: 
+===============================================
+
+
+Gta email ==>Done
+AS400 
+AX : http://sirius.kuoni.int/Citrix/xd7Web/
+Saleforce ==Done
+GTA call center
+
+=====================================
+https://interface.test.gta-travel.com/services/Home.jsp
+
+1587/1587
+====================================
+
+UAT: 
+https://hotels-nft.gta-travel.com/gts -->GTA02.(Need raise SNOW ticket). 
+
+
+you in the GTS environment ( https://gts.celaton-instream.com )
+User name: 	
+Password: Javelin_2017
+=============================================
+Kuoni: 
+1. WebEmail: https://emailuk.kuoni.com/ userid: emeanb\920438 and password:Kuoni123
+2. Service Request: https://kuoni.service-now.com/ess userid: emeanb\920438 and password:Kuoni123
+
+AS400: 
+1. Connect to GTA02 (10.241.163.148) and Login with LCP73T/travel1
+2. Telnet LONDON and Login with LCP73T/travel1
+3. Telnet GTSLON1 and Login with LCP73T/travel123
+4. Telnet GTSLON2 and Login with LCP73T/travel123
+
+===============================================================
+new SIT GTA credentials: 
+
+GC Content: http://hotels.test.gta-travel.com/gts
+GCRes: http://hotels.test.gta-travel.com/gtsres
+GCfinance: http://hotels.test.gta-travel.com/gtsfinance
+
+SalesForce integration with gc:
+
+SIT GTS gc: https://hotels.test.gta-travel.com/gts 
+SIT GTA gc: https://hotels.test.gta-travel.com/gs/
+
+
+Webid :GTA
+Username: 921329
+Password: Kuoni123
+
+WEBID=GTA
+lcp34s/London1
+
+900425/London1
+==============================
+BG/BNG/23390/9909
+
+AX id 
+Username: Shai.Sreetharan
+Password: Welcome2Try
+User name: Murali.C
+password: Welcome2Try
+================================
+Sales Force Record ID: 
+GTS Account: 
+list: 
+https://cs84.salesforce.com/a1S5E000000TDLt
+Account: 
+https://cs84.salesforce.com/0015E00000QwPzv
+
+
+
+GTA Account:
+https://cs84.salesforce.com/001?fcf=00B5E0000012wL4
+
+https://cs84.salesforce.com/00B5E0000012wL4
+
+GTA Account:
+https://cs84.salesforce.com/0015E00000Qptsv
+
+An ID starts with ‘00B’ means it is list view related.
+Any account id will start with ‘001’
+
